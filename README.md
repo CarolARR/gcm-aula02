@@ -2,7 +2,7 @@
 
 Silvester Stalone
 
-Kianu Reeves
+Ian Mackellen
 
 Jack Nicholson
 
@@ -11,4 +11,6 @@ Natalie Portman
 Anne Hathaway
 
 Sandra Bullock
+
+Kianu Reeves
 
