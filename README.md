@@ -2,7 +2,7 @@
 
 Jack Nicholson
 
-Kianu Reeves
+Ian Mackellen
 
 Eduard Norton
 
@@ -11,3 +11,5 @@ Brad Pitt
 Julia Roberts
 
 Natalie Portman
+
+Kianu Reeves
